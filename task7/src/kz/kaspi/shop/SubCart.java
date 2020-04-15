@@ -12,7 +12,7 @@ import java.util.stream.Collectors;
 /**
  * Collection class for {@link Product}
  *
- * Have {@link #add(Product) to add product into basket}
+ * Have {@link #add(Product)} to add product into basket
  * and {@link #getTotalCost()} for calculating total cost of products
  * and {@link #getNotExpiredProducts()} for getting products which is {@link Expirable} but not expired
  * and {@link #count()} for getting count of products
