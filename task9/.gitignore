@@ -1,0 +1,8 @@
+# Idea
+.idea/
+*.iml
+out/
+
+# Project
+logs/
+ser/
